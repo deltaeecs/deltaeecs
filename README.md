@@ -10,3 +10,4 @@
 - 本人已毕业参加工作，时间有限，该程序暂时不会提供大的功能更新，有意愿参与开发可 fork 分支，提交PR。
 - 当前在华子工作，CEM 方向，欢迎 CEM 的小伙伴联系。
 - MoM_AllinOne ~~因故闭源~~重新开源，有合作需求请联系北京大学夏明耀教授（myxia@pku.edu.cn）。
+- 矩量法系列包重构迁移到 [EMMoMSuite](https://github.com/deltaeecs/EMMoMSuite.jl)，完成所有包的整合，新增 ACA 等求解方案，测试相对更充分，原本零散的包关闭仓库不再更新。
